@@ -1,2 +1,2 @@
-# Trilha-Python :woman_technologist:
+# Trilha-Python 👩‍💻
 Atividades :lotus_position_woman:
